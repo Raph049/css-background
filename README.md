@@ -1,2 +1,10 @@
 # css-background
-more at https://patterncraft.fun/
+Author: https://github.com/megh-bari/pattern-craft
+
+
+
+
+
+
+
+#raph049 https://patterncraft.fun/
